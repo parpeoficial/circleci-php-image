@@ -15,5 +15,6 @@ RUN jq --version
 RUN apt-get install -y python-pip libpython-dev
 RUN pip install awscli
 
-# Enable PHP GD
-RUN docker-php-ext-install gd
+# Enable PHP LIBS
+RUN docker-php-ext-install gd pdo pdo_mysql
+    
