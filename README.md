@@ -16,4 +16,5 @@ An image with PHP to run tests in the CircleCI
 ## Versions
 | Version  | Build Status |
 | ------------- | ------------- |
+| 7.1-node-browsers  | ![Travis branch](https://img.shields.io/travis/parpeoficial/circleci-php-image/7.1-node-browsers.svg?style=flat-square) |
 | 7.1.20-node-browsers  | ![Travis branch](https://img.shields.io/travis/parpeoficial/circleci-php-image/7.1.20-node-browsers.svg?style=flat-square) |
